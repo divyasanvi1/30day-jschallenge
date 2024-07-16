@@ -29,7 +29,7 @@ console.log(typeof(arr));// output is object beacuse array is a special kind of 
 // as objects in javascript
 console.log(Array.isArray(arr));
 
-// diffrence of var and let-
+// diffrence of var and let
 // var has function scope ,let has block scope
 // undefined-var when var is accessed before definition and refrence error in case of let
 // redeclare var within same scope while cannot redeclare let within same scope
